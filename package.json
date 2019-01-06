@@ -1,0 +1,14 @@
+{
+  "name": "WFS",
+  "version": "1.0.0",
+  "description": "A file system library inside browser.",
+  "main": "index.js",
+  "repository": "https://github.com/c-os/WFS.git",
+  "author": "Ashish Gurjar <ashishkgurjar@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ts-node-dev": "^1.0.0-pre.32",
+    "typescript": "^3.2.2"
+  }
+}
