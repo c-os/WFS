@@ -1,6 +1,9 @@
 
 
-export abstract class WFSImpl {
+export abstract class FSOptions {}
+
+
+export abstract class FileSystemImpl {
     // 
     abstract access(path: string, mode?: any): Promise<void>;
     abstract accessSync(path:string, mode?: any): void;
